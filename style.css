@@ -1,0 +1,83 @@
+*{
+	text-align: center;
+	text-decoration: none;
+}
+body{
+	background: -webkit-linear-gradient(bottom, #9b59b6,#e67e22) ;
+	background-repeat: no-repeat;
+}
+label {
+	font-family: "Raleway", sans-serif;
+	font-size: 11pt;
+}
+#forgot-password {
+	color: #f1c40f;
+	font-family: "Raleway", sans-serif;
+	font-size: 10pt;
+	margin-top:3px;
+	text-align: right; 
+}
+#Materi02 {
+	background: #3498db;
+	border-radius: 8px;
+	border-style: 1px 2px 8px rgba(0,0,0,0.65);
+	height: 410px;
+	margin: 6rem auto, 8,1rem auto;
+	width: 329px;
+}
+#Materi02-content{
+	padding: 12px 44px; 
+}
+#Materi02-title {
+	font-family: "Relaway Thin", sans-serif;
+	letter-spacing: 4px;
+	padding-bottom: 23px;
+	padding-top: 13px;
+	text-align: center; 
+}
+#signup {
+	color: #c0392b;
+	font-family: "Relaway", sans-serif;
+	font-size: 10px;
+	margin-top:16px;
+	text-align: center;
+}
+#submit-btn {
+	background: -webkit-linear-gradient(right,#3498db, #9b59b6);
+	border-radius: 21px;
+	border:none;
+	box-shadow: 0px 1px 8px #ffffff;
+	cursor: pointer;
+	color:;
+	font-family: "Relaway SemiBold-", sans-serif;
+	height: 42px;
+	margin: 0 auto;
+	margin-top :0,25s;
+	width: 153px;
+}
+#submit-btn:hover{
+	box-shadow: 0px 1px 18px #ffffff;
+}
+.form {
+	align-items: left;
+	display: flex;
+	flex-direction: column;
+}
+.form-content {
+	background: #ecf0f1;
+	border:none;
+	outline: none;
+	padding-top: 14px;
+}
+.underline-title {
+	background: -webkit-linear-gradient(right, #3498db, #9b59b6);
+	height: 2px;
+	margin: -1,1rem auto 0 auto;
+	width: 89px;
+
+}
+
+
+
+
+
